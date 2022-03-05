@@ -3,6 +3,10 @@ h1, h2, h3, h4, h5, h6 {
     font-family: Smooch Sans;
 }
 
+p {
+    font-size: 20px;
+}
+
 body {
     margin: 0 auto;
 }
@@ -47,4 +51,39 @@ footer {
 main {
     padding: 1em;
     margin: 1em;
+}
+
+.lesson {
+    margin: 0 auto;
+    width: 500px;
+    align-content: center;
+}
+
+.lesson img {
+    align-self: center;
+    justify-self: center;
+    text-align: center;
+    
+}
+
+main h1{
+    text-align: center;
+}
+
+.resources {
+    width: 500px;
+    margin: 0 auto;
+}
+
+li {
+    padding: 10px;
+}
+
+sup a{
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.quote {
+    font-style: italic;
 }
